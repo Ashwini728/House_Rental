@@ -3,6 +3,11 @@
 ## Overview
 This project is a **House Rental Website** where users can browse, compare, and rent properties. The site includes property listings, detailed descriptions, images, and a booking system for scheduling visits.
 
+## Contributors
+- Anjitha Anil
+- Ashwini Anil
+- Eunice Freeda.T 
+
 ## Features
 - Browse available properties (apartments, villas, penthouses)
 - View detailed property descriptions with images
@@ -51,8 +56,5 @@ This project is a **House Rental Website** where users can browse, compare, and 
 - Add a search and filtering functionality
 - Integrate a payment gateway for rental transactions
 
-## License
-This project is licensed under the MIT License.
 
-## Contact
-For any issues or suggestions, reach out to **houserent@gmail.com**.
+
