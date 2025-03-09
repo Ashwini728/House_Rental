@@ -70,7 +70,7 @@ This project is a **House Rental Website** where users can browse, compare, and 
 ![Property Details](assets/images/property-details.png)
 
 ## Website Demo Video  
-[![Website Demo](assets/images/video-thumbnail.png)](assets/videos/.mp4)
+[![Website Demo](assets/images/video-thumbnail.png)](assets/videos/video.mp4)
 
 > **Note:** Click the thumbnail to watch the website demo video.
 
