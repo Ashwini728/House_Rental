@@ -58,3 +58,25 @@ This project is a **House Rental Website** where users can browse, compare, and 
 
 
 
+## Project Screenshots
+
+### Home Page  
+![Home Page](assets/images/home.png)
+
+### Property Listings  
+![Property Listings](assets/images/properties.png)
+
+### Property Details  
+![Property Details](assets/images/property-details.png)
+
+## Website Demo Video  
+[![Website Demo](assets/images/video-thumbnail.png)](assets/videos/.mp4)
+
+> **Note:** Click the thumbnail to watch the website demo video.
+
+---
+
+
+
+
+
